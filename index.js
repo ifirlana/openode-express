@@ -15,5 +15,5 @@ index.use(bodyParser.urlencoded({extended: true}));
 app.use('/', index);
 
 app.listen(port, function() {
-    console.log('Example app listening on port ' + port + '!')
+    console.log('listening on port ' + port + '!')
 });
