@@ -1,0 +1,24 @@
+{
+  "name": "openode-express",
+  "version": "1.0.0",
+  "description": "create server by express configuration to openode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifirlana/openode-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifirlana/openode-express/issues"
+  },
+  "homepage": "https://github.com/ifirlana/openode-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2"
+  }
+}
